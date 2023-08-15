@@ -9,11 +9,11 @@ int main() {
 
     for ( int i = 0; i < d - 30; i++ ) {
         if ( i < 30 ) {
-            printf( "Here\n" ) ;
+            printf( "Here" ) ;
         }else if ( i == 8 ) {
-            printf( "This is 8.\n" ) ;
+            printf( "This is 8." ) ;
         }else {
-            printf( "ok\n" ) ;
+            printf( "ok" ) ;
         }//end if else
     }//end for
 
